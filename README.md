@@ -12,13 +12,15 @@ Notes is android app made with Java via Android studio.<br />
 
 ## Screenshots
 <p align="center">
-<img alt="Home" width="50%" src="https://user-images.githubusercontent.com/85744016/175787010-18175103-27bd-4291-b43f-53659cb0b0ba.png" />
- 
-<img alt="Create Note" width="50%" src="https://user-images.githubusercontent.com/85744016/175787015-fd00af1a-9deb-4a1b-83c0-04cb2ea836b2.png" />
+ <img alt="Home" width="50%" src="https://user-images.githubusercontent.com/85744016/175787010-18175103-27bd-4291-b43f-53659cb0b0ba.png" />
+
+ <img alt="Popup" width="50%" src="https://user-images.githubusercontent.com/85744016/175787370-97e9a318-b846-471d-a57a-54e62db342ac.png" />
+
+ <img alt="Create Note" width="50%" src="https://user-images.githubusercontent.com/85744016/175787015-fd00af1a-9deb-4a1b-83c0-04cb2ea836b2.png" />
  
 <img alt="Search Note" width="50%" src="https://user-images.githubusercontent.com/85744016/175787028-728dae1c-8332-4d96-b0a0-eb125e9e76e5.png" />
  
-<img alt="View Note" width="50%" src="https://user-images.githubusercontent.com/85744016/175787042-b7effd98-a07a-4d4d-8d35-32ebae3b2ceb.png" />
+ <img alt="View Note" width="50%" src="https://user-images.githubusercontent.com/85744016/175787042-b7effd98-a07a-4d4d-8d35-32ebae3b2ceb.png" />
 </p>
 
 ## Technical Part
