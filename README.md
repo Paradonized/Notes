@@ -1,5 +1,5 @@
 # Notes
-Notes is an android app made with Android studio and written in java.<br />
+Notes is an android app made with Android studio and written in Java.<br />
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Paradonized/Ski-Resort?style=plastic">
 
 ## Features
